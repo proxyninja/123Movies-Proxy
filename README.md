@@ -1,4 +1,4 @@
-# 123Movies Proxy List for 2021 - Working 123Movies Mirror
+# 123Movies Proxy List for 2022 - Working 123Movies Mirror
 
 If you can't access the original site, you can use proxy sites that provide access to blocked sites by transferring the user to the copied site, which has similar content to the original site.
 
