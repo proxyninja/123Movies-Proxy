@@ -7,6 +7,7 @@ Proxy sites are one of the best options for downloading entertainment content wi
 There are multiple proxy sites available, and each site appears to direct the user to the content available on the main domain.
 
 - https://123movies.unblockninja.com
+- https://123movies.proxyninja.net
 - https://123movies.proxyninja.org
 
 More unblocked torrent and watch online sites at: 
