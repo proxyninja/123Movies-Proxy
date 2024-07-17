@@ -1,5 +1,5 @@
 ##################
-123Movies Proxy List for 2022 - Working 123Movies Mirror
+123Movies Proxy List for 2024 - Working 123Movies Mirror
 ##################
 
 
